@@ -1,0 +1,101 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "user1",
+      "password": "user1@123"
+    },
+    {
+      "id": 3,
+      "username": "user2",
+      "password": "user2@123"
+    },
+    {
+      "id": 4,
+      "username": "user3",
+      "password": "user3@123"
+    },
+    {
+      "username": "sai",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "username": "saiM",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "username": "sai",
+      "password": "12345",
+      "id": 7
+    },
+    {
+      "username": "789456",
+      "password": "5516413",
+      "id": 8
+    }
+  ],
+  "books": [
+    {
+      "isbn": "799785255",
+      "title": "The Girl Who Knew Too Much",
+      "author": "Khanna Vikrant",
+      "publisher": "Flip.P Publisher",
+      "publicationdate": "2008-12-11",
+      "price": "10",
+      "genre": "Fiction",
+      "format": "E-copy",
+      "id": 1
+    },
+    {
+      "isbn": "2930742134",
+      "title": " A tale of two cities",
+      "author": "Charles Dickens",
+      "publicationdate": "1899-11-01",
+      "publisher": " Cosmopolitan Book Corporation",
+      "price": "3.49",
+      "genre": "Fiction",
+      "format": "Hard Cover",
+      "id": 2
+    },
+    {
+      "isbn": "135645945",
+      "title": "Killers of the Flower Moon",
+      "author": "David Grann",
+      "publicationdate": "2017-12-04",
+      "publisher": "x",
+      "price": "1.26",
+      "genre": "Non-Fiction",
+      "format": "E-copy",
+      "id": 3
+    },
+    {
+      "isbn": "16654561",
+      "title": "c",
+      "author": "cc",
+      "publisher": "vjhh",
+      "publicationdate": "2002-03-03",
+      "price": "12",
+      "genre": "General",
+      "format": "Hard Cover",
+      "id": 6
+    },
+    {
+      "isbn": "12345678",
+      "title": "Fault in our stars",
+      "author": "emo",
+      "publicationdate": "1999-04-23",
+      "publisher": "Neney",
+      "price": "2500",
+      "genre": "Non-Fiction",
+      "format": "E-copy",
+      "id": 7
+    }
+  ]
+}
